@@ -26,5 +26,6 @@ Handles 32-bit overflow transparently.
 Can be adapted easily (to a different granularity (microsecond, nanosecond, ...), to other platforms, ...)
 
 Versioning
+
 v1.0: basic functionality (one simple LTimer object, <10kb)
 v2.0: extensions of v1.0 (new objects for extended functionalities)
