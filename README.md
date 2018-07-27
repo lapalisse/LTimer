@@ -30,3 +30,5 @@ Versioning
 v1.0: basic functionality (goals: one simple LTimer object, <10kb)
 
 v2.0: extensions of v1.0 (goals: new objects for extended functionalities, <20kb)
+
+PS: I've got a new library on that subject which will be made available in github... Interested? contact me at ludovic.bertsch@gmail.com
